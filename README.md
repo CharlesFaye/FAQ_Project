@@ -11,7 +11,7 @@ This is a simple and responsive FAQ (Frequently Asked Questions) web application
 
 ## Demo
 
-You can check out a live demo [here](https://your-demo-link.com).
+You can check out a live demo [here](https://faq-project-gray.vercel.app/).
 
 ## Installation
 
