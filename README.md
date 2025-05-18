@@ -36,8 +36,9 @@ Folder Structure
 
 faq-project/
 ├── index.html
-├── style.css 
-└── main.js
+├── main.js
+├── README.md
+└── style.css
 
 Customization
 To add more questions:
