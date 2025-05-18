@@ -20,23 +20,30 @@ You can check out a live demo [here](https://your-demo-link.com).
 ```bash
 git clone https://github.com/CharlesFaye/faq-project.git
 
-1. Navigate into the project directory 
+2. Navigate into the project directory 
 cd faq-project
 
 3. Open index.html in your browser (you can use Live Server in VS Code).
 
-<h2>Technologies Used</h2>
-<ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>TailwindCSS</li>
-    <li>Vanilla</li>
-</ul>
+Technologies Used
 
-<h2>Folder Structure</h2>
+HTML5
+CSS3
+TailwindCSS
+JavaScript(Vanilla)
+
+Folder Structure
+
 faq-project/
 ├── index.html
 ├── style.css 
 └── main.js
 
+Customization
+To add more questions:
+
+Edit the HTML and duplicate a question-answer block.
+
+Author
+Developed by Charles Faye.
 
